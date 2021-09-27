@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1632148479 source:c:\users\admin\documents\cv auto\src\fonctions.cpp
+	"Fonctions.h"
+
+1632148479 c:\users\admin\documents\cv auto\include\fonctions.h
+
+1632336756 source:d:\projet jetbrain\codeblocks\cv auto\src\fonctions.cpp
+	"Fonctions.h"
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<unistd.h>
+	<windows.h>
+
+1632336047 d:\projet jetbrain\codeblocks\cv auto\include\fonctions.h
+
+1632336764 source:d:\projet jetbrain\codeblocks\cv auto\main.cpp
+	<iostream>
+	<string>
+	"Fonctions.h"
+
